@@ -1,0 +1,10 @@
+site_name: NTT Apic Doc
+
+theme:
+  name: material
+
+plugins:
+  - swagger-ui-tag
+
+nav:
+- Home: index.md

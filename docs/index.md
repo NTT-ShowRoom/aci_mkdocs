@@ -11,5 +11,5 @@
 
 
 
-<swagger-ui src="http://a87e9ea8b018e483597695f4e680202a-384004553.us-east-1.elb.amazonaws.com:8000/openapi.json"/>
+<swagger-ui src="openapi.json"/>
 

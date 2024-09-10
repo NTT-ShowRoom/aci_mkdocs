@@ -8,3 +8,4 @@ plugins:
 
 nav:
 - Home: index.md
+- Swagger: swagger.md

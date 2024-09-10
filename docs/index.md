@@ -1,6 +1,4 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Welcome
 
 ## Commands
 
@@ -11,10 +9,6 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
 ## Project layout
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
 
 
 <swagger-ui src="http://a87e9ea8b018e483597695f4e680202a-384004553.us-east-1.elb.amazonaws.com:8000/openapi.json"/>
